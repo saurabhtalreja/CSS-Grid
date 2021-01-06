@@ -1,2 +1,5 @@
 *-workspace
 css-grid-master
+node_modules/
+.DS_Store
+haters
